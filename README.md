@@ -9,5 +9,8 @@ Please expect odd usage as I'm learning. I think I'll like understand how this s
 I will provide below links to living Google Docs documenting this work. 
 
 Documents from Google Docs:
+
 [Library Specifiction](https://docs.google.com/document/d/1RoZht3wEeH96FFmNpXUlwnN9RpqEvnLU3AQJwfApcYc/edit?usp=sharing)
+
 [GitHub Workflow](https://docs.google.com/document/d/1P17IIQQOvJ6q_teOoxxQr1GkGvGLSuExL149uPiQ_7A/edit?usp=sharing)
+
