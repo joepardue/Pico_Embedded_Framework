@@ -14,3 +14,6 @@ Documents from Google Docs:
 
 [GitHub Workflow](https://docs.google.com/document/d/1P17IIQQOvJ6q_teOoxxQr1GkGvGLSuExL149uPiQ_7A/edit?usp=sharing)
 
+[Create a directory on your Raspberry Pi 5 and link it to GitHub](https://docs.google.com/document/d/1t4AxNet2rvYmZWl1RR8B_s0_YyOvyVxBxngT3aWM2H0/edit?usp=sharing)
+
+
